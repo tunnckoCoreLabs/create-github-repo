@@ -17,7 +17,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "esm": "^3.0.84",
-    "parse-git-config": "^2.0.3"
+    "parse-git-config": "^3.0.0"
   },
   "devDependencies": {
     "@tunnckocore/config": "^0.5.1",
